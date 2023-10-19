@@ -14,3 +14,8 @@ def quadrado_(x)
     return x^2
 
 print(quadrado(2))
+
+
+print('1,2,3')
+
+soma()
