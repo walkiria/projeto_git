@@ -1,8 +1,4 @@
-### Edição Walkiria 1
-def calc_sum(x,y):
-    return x+y
-    
-print(calc_sum(1,1))
+
 
 ### Edição Leo 2
 def quadrado(x)
